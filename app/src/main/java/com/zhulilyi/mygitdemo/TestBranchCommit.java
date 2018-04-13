@@ -5,4 +5,5 @@ package com.zhulilyi.mygitdemo;
  */
 
 public class TestBranchCommit {
+    private String test="modify commit";
 }
