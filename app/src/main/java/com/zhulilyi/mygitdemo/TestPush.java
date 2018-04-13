@@ -5,4 +5,5 @@ package com.zhulilyi.mygitdemo;
  */
 
 public class TestPush {
+    private int temp;
 }
